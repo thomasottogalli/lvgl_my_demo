@@ -1,0 +1,9 @@
+<screen>
+	<view>
+		<column width="100%">
+			<row width="50%">
+				<lv_label text="Made by LVGL's UI editor" />
+			</row>
+		</column>
+	</view>
+</screen>
